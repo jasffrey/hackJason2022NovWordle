@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.util.*;
 
 public class WordleDB {
-
+//
 	// instance variables
 
 	/**
